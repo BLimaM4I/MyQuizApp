@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--TODO (STEP 1: Design the QuizQuestionsActivity layout.)-->
+<?xml version="1.0" encoding="utf-8"?><!--TODO (STEP 1: Design the QuizQuestionsActivity layout.)-->
 <!--START-->
 <!--List of the points for to do :
     1. The custom drawable is added in the drawable folder which used as background.-->
